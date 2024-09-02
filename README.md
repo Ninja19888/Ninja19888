@@ -5,3 +5,4 @@
 - 📫 How to reach me: [ninjabusy88@gmail.com](mailto:ninjabusy88@gmail.com)
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I enjoy solving complex puzzles and challenges.
+- 🔐 SSH Key Fingerprint: `SHA256:hsT3dmeyJ7XLVN2lIam8K+2MiS6hb6/a5eZW0oerZ7Y`
